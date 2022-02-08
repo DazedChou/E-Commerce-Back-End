@@ -15,7 +15,7 @@ You must first install MySQL from the link below.
 
 ### Demo
 
-![](https://watch.screencastify.com/v/yb6B9OYcUnT7pBREdrdU)
+[![Watch the video](https://docs.oracle.com/cd/A91202_01/901_doc/rac.901/a89870/psdep002.gif)](https://watch.screencastify.com/v/yb6B9OYcUnT7pBREdrdU)
 
 ## Built With
 
