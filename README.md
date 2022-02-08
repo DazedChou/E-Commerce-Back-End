@@ -15,7 +15,7 @@ You must first install MySQL from the link below.
 
 ### Demo
 
-![Video Link](https://watch.screencastify.com/v/yb6B9OYcUnT7pBREdrdU)
+![](https://watch.screencastify.com/v/yb6B9OYcUnT7pBREdrdU)
 
 ## Built With
 
